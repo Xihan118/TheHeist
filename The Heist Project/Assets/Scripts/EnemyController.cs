@@ -21,7 +21,9 @@ public class EnemyController : MonoBehaviour
     public Animator WeaponAnim;
     public Transform shotPos;
     public GameObject muzzleFlash;
-    public GameObject Bullet;
+
+    public bool canFire = true;
+    public int Damage;
 
     void Start()
     {
@@ -36,13 +38,22 @@ public class EnemyController : MonoBehaviour
             OnDetected.Invoke();
             anim.SetBool("Triggered", true);
 
-            if (timeBtwShot <= 0)
+            if (timeBtwShot <= 0 && canFire)
             {
                 muzzleFlash.SetActive(true);
                 Instantiate(ShotAudio, shotPos);
-                Instantiate(Bullet, shotPos.position, shotPos.rotation);
                 timeBtwShot = startTimeBtwShot;
                 WeaponAnim.SetTrigger("Shoot");
+
+                
+                RaycastHit hit;
+                if (Physics.Raycast(shotPos.position, shotPos.forward, out hit, 1000)) {
+                    if (hit.transform.tag == "Player") {
+                        HealthScript health = hit.transform.GetComponent<HealthScript>();
+                        health.ApplyDamage(Damage);
+                    }
+                }
+
             }
             else {
                 timeBtwShot -= Time.deltaTime;
@@ -53,6 +64,9 @@ public class EnemyController : MonoBehaviour
         }
     }
 
+    public void CantFire() {
+        canFire = false;
+    }
 
 }
 

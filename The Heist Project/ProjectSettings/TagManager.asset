@@ -20,6 +20,10 @@ TagManager:
   - Ladder
   - Water
   - VehicleCamera
+  - car2
+  - WeaponCamera
+  - Launcher
+  - ShootMe
   layers:
   - Default
   - TransparentFX
