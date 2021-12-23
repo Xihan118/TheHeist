@@ -114,6 +114,7 @@
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\CarController.cs" />
     <Compile Include="Assets\_Resources\Scripts\Buoyancy.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\FootSteps.cs" />
+    <Compile Include="Assets\Scripts\OnEnableDisable.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\UserLutComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\FPSController.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\CrosshairSimple.cs" />
@@ -170,7 +171,8 @@
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\Wing.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\RotateGrenade.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\DitheringModel.cs" />
-    <Compile Include="Assets\Scripts\OnEnableDisable.cs" />
+    <Compile Include="Assets\Scripts\Bullets.cs" />
+    <Compile Include="Assets\Scripts\Destroy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />

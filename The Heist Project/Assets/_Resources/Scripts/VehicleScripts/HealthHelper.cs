@@ -48,6 +48,7 @@ public class HealthHelper : MonoBehaviour
        if (hitPoints <= 0) return;
 
         hitPoints -= damage;
+		
 		//if(vechicleScript.inVehicle)
 		//{
 		//	t = 2.0f;

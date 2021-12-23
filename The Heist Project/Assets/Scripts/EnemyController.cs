@@ -21,7 +21,7 @@ public class EnemyController : MonoBehaviour
     public Animator WeaponAnim;
     public Transform shotPos;
     public GameObject muzzleFlash;
-
+    public GameObject Bullet;
 
     void Start()
     {
@@ -40,6 +40,7 @@ public class EnemyController : MonoBehaviour
             {
                 muzzleFlash.SetActive(true);
                 Instantiate(ShotAudio, shotPos);
+                Instantiate(Bullet, shotPos.position, shotPos.rotation);
                 timeBtwShot = startTimeBtwShot;
                 WeaponAnim.SetTrigger("Shoot");
             }
@@ -51,5 +52,7 @@ public class EnemyController : MonoBehaviour
             OnIdle.Invoke();
         }
     }
+
+
 }
 
