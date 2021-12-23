@@ -10370,7 +10370,7 @@ MonoBehaviour:
   Untagged: {fileID: 1926368004509638, guid: ff648d225fb12bd4cb233d4d6fb2041f, type: 3}
   aSource: {fileID: 4598077180701465902}
   soundDraw: {fileID: 8300000, guid: 0861f3260c7290b44bc182fef620a944, type: 3}
-  soundFire: {fileID: 8300000, guid: 0b5b460bec9595b4583b8bc99744b6ce, type: 3}
+  soundFire: {fileID: 8300000, guid: 2261941d21b9b394ab64a02e088642b6, type: 3}
   soundReload: {fileID: 8300000, guid: c04fbf1dcfc2fba43a4e00b4d4f4e8e3, type: 3}
   soundEmpty: {fileID: 8300000, guid: 9329112ef33ca4037bce45edc42fa300, type: 3}
   switchModeSound: {fileID: 8300000, guid: 96e5e8a3207c43b4d933b633bc98dda7, type: 3}

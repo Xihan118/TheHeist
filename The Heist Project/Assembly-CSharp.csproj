@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7A698C85-CF52-67CB-D332-2D6ACF9C82EE}</ProjectGuid>
+    <ProjectGuid>{98B1357F-5117-6856-9CB3-4A349CC04B8D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,8 +61,8 @@
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\HealthHelper.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
-    <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\StabilizeKickback.cs" />
+    <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
     <Compile Include="Assets\_Resources\Scripts\DamageTrigger.cs" />
@@ -90,6 +90,7 @@
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\DamageonTriggerEnter.cs" />
     <Compile Include="Assets\_Resources\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\PostProcessingProfile.cs" />
+    <Compile Include="Assets\Scripts\StickToTarget.cs" />
     <Compile Include="Assets\_Resources\Scripts\Medic.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\GrainComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\MouseLook.cs" />
@@ -98,6 +99,7 @@
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\PostProcessingContext.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\TargetManager.cs" />
+    <Compile Include="Assets\Scripts\AIRoot.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\WeaponScriptNEW.cs" />
     <Compile Include="Assets\_Resources\Scripts\Stabilize.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
@@ -168,8 +170,7 @@
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\Wing.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\RotateGrenade.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\DitheringModel.cs" />
-    <Compile Include="Assets\Scripts\StickToTarget.cs" />
-    <Compile Include="Assets\Scripts\AIRoot.cs" />
+    <Compile Include="Assets\Scripts\OnEnableDisable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
@@ -448,11 +449,11 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>D:\Unity Editors\2020.3.24f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Burst.Unsafe">
       <HintPath>Library\PackageCache\com.unity.burst@1.3.4\Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\Unity Editors\2020.3.24f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -805,6 +806,9 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -820,40 +824,37 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics">
-      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Animation.Rigging">
-      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Animation.Rigging.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging">
+      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{C9B104A2-3FD8-3214-59D3-E984E5642CA6}</Project>
+      <Project>{280E90E8-3162-D048-B886-C95B0CCF93CB}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
