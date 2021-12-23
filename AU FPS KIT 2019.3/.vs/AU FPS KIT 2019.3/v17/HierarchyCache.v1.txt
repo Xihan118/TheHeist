@@ -1,0 +1,1630 @@
+﻿++Solution 'AU FPS KIT 2019.3' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:AU FPS KIT 2019.3.sln
+++Assembly-CSharp-Editor
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp-Editor
+++References
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Assets
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\
+++Assembly-CSharp
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Assembly-CSharp-firstpass
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp-firstpass
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++log4netPlastic
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Microsoft.CSharp
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Microsoft.Win32.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++mscorlib
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++netstandard
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Newtonsoft.Json
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++nunit.framework
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.AppContext
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Collections
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Collections.Concurrent
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Collections.NonGeneric
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Collections.Specialized
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ComponentModel
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ComponentModel.Annotations
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ComponentModel.EventBasedAsync
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ComponentModel.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ComponentModel.TypeConverter
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Console
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Core
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Data
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Data.Common
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.Contracts
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.Debug
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.FileVersionInfo
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.Process
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.StackTrace
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.TextWriterTraceListener
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.Tools
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Diagnostics.TraceSource
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Drawing.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Dynamic.Runtime
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Globalization
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Globalization.Calendars
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Globalization.Extensions
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.Compression
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.Compression.ZipFile
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.FileSystem
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.FileSystem.DriveInfo
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.FileSystem.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.FileSystem.Watcher
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.IsolatedStorage
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.MemoryMappedFiles
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.Pipes
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.IO.UnmanagedMemoryStream
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Linq
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Linq.Expressions
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Linq.Parallel
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Linq.Queryable
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.Http
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.Http.Rtc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.NameResolution
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.NetworkInformation
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.Ping
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.Requests
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.Security
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.Sockets
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.WebHeaderCollection
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.WebSockets
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Net.WebSockets.Client
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Numerics
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Numerics.Vectors
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ObjectModel
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Reflection
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Reflection.Emit
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Reflection.Emit.ILGeneration
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Reflection.Emit.Lightweight
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Reflection.Extensions
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Reflection.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Resources.Reader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Resources.ResourceManager
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Resources.Writer
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.CompilerServices.VisualC
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Extensions
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Handles
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.InteropServices
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.InteropServices.WindowsRuntime
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Numerics
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Serialization
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Serialization.Formatters
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Serialization.Json
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Serialization.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Runtime.Serialization.Xml
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.Claims
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.Cryptography.Algorithms
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.Cryptography.Csp
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.Cryptography.Encoding
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.Cryptography.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.Cryptography.X509Certificates
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.Principal
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Security.SecureString
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ServiceModel.Duplex
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ServiceModel.Http
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ServiceModel.NetTcp
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ServiceModel.Primitives
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ServiceModel.Security
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Text.Encoding
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Text.Encoding.Extensions
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Text.RegularExpressions
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Threading
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Threading.Overlapped
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Threading.Tasks
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Threading.Tasks.Parallel
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Threading.Thread
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Threading.ThreadPool
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Threading.Timer
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.ValueTuple
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml.Linq
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml.ReaderWriter
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml.XDocument
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml.XmlDocument
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml.XmlSerializer
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml.XPath
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++System.Xml.XPath.XDocument
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.Plastic.Antlr3.Runtime
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.Plastic.Newtonsoft.Json
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.PlasticSCM.Editor
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.Rider.Editor
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.TextMeshPro
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.TextMeshPro.Editor
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.Timeline
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.Timeline.Editor
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.VisualStudio.Editor
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Unity.VSCode.Editor
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.CoreModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.Graphs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.GraphViewModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.PackageManagerUIModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.SceneTemplateModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.TestRunner
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.UI
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.UIElementsModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.UIElementsSamplesModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.UIServiceModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.UnityConnectModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEditor.WindowsStandalone.Extensions
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.AccessibilityModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.AIModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.AndroidJNIModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.AnimationModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ARModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.AssetBundleModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.AudioModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ClothModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ClusterInputModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ClusterRendererModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.CoreModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.CrashReportingModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.DirectorModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.DSPGraphModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.GameCenterModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.GIModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.GridModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.HotReloadModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ImageConversionModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.IMGUIModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.InputLegacyModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.InputModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.JSONSerializeModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.LocalizationModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ParticleSystemModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.PerformanceReportingModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.Physics2DModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.PhysicsModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ProfilerModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.ScreenCaptureModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.SharedInternalsModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.SpriteMaskModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.SpriteShapeModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.StreamingModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.SubstanceModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.SubsystemsModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.TerrainModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.TerrainPhysicsModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.TestRunner
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.TextCoreModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.TextRenderingModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.TilemapModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.TLSModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UI
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UIElementsModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UIElementsNativeModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UIModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UmbraModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UNETModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityAnalyticsModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityConnectModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityCurlModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityTestProtocolModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityWebRequestModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.VehiclesModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.VFXModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.VideoModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.VirtualTexturingModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.VRModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.WindModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++UnityEngine.XRModule
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++unityplastic
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:
+++Editor
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\
+++PostProcessing
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\
+++ImageEffects
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\
+++AntialiasingEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\antialiasingeditor.cs
+++BloomAndFlaresEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\bloomandflareseditor.cs
+++BloomEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\bloomeditor.cs
+++CameraMotionBlurEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\cameramotionblureditor.cs
+++ColorCorrectionCurvesEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\colorcorrectioncurveseditor.cs
+++CreaseShadingEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\creaseshadingeditor.cs
+++DepthOfFieldDeprecatedEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\depthoffielddeprecatededitor.cs
+++DepthOfFieldEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\depthoffieldeditor.cs
+++EdgeDetectionEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\edgedetectioneditor.cs
+++NoiseAndGrainEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\noiseandgraineditor.cs
+++SunShaftsEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\sunshaftseditor.cs
+++TonemappingEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\tonemappingeditor.cs
+++VignetteAndChromaticAberrationEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\editor\imageeffects\vignetteandchromaticaberrationeditor.cs
+++Attributes
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\attributes\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\attributes\
+++Models
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\
+++Monitors
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\monitors\
+++PropertyDrawers
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\propertydrawers\
+++Utils
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\utils\
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\utils\
+++PostProcessingBehaviourEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\postprocessingbehavioureditor.cs
+++PostProcessingFactory.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\postprocessingfactory.cs
+++PostProcessingInspector.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\postprocessinginspector.cs
+++PostProcessingModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\postprocessingmodeleditor.cs
+++PostProcessingMonitor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\postprocessingmonitor.cs
+++PostProcessingModelEditorAttribute.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\attributes\postprocessingmodeleditorattribute.cs
+++AmbientOcclusionModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\ambientocclusionmodeleditor.cs
+++AntialiasingModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\antialiasingmodeleditor.cs
+++BloomModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\bloommodeleditor.cs
+++BuiltinDebugViewsEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\builtindebugviewseditor.cs
+++ChromaticAberrationEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\chromaticaberrationeditor.cs
+++ColorGradingModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\colorgradingmodeleditor.cs
+++DefaultPostFxModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\defaultpostfxmodeleditor.cs
+++DepthOfFieldModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\depthoffieldmodeleditor.cs
+++DitheringModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\ditheringmodeleditor.cs
+++EyeAdaptationModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\eyeadaptationmodeleditor.cs
+++FogModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\fogmodeleditor.cs
+++GrainModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\grainmodeleditor.cs
+++MotionBlurModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\motionblurmodeleditor.cs
+++ScreenSpaceReflectionModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\screenspacereflectionmodeleditor.cs
+++UserLutModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\userlutmodeleditor.cs
+++VignetteModelEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\models\vignettemodeleditor.cs
+++HistogramMonitor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\monitors\histogrammonitor.cs
+++ParadeMonitor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\monitors\parademonitor.cs
+++VectorscopeMonitor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\monitors\vectorscopemonitor.cs
+++WaveformMonitor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\monitors\waveformmonitor.cs
+++GetSetDrawer.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\propertydrawers\getsetdrawer.cs
+++MinDrawer.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\propertydrawers\mindrawer.cs
+++TrackballGroupDrawer.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\propertydrawers\trackballgroupdrawer.cs
+++CurveEditor.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\utils\curveeditor.cs
+++EditorGUIHelper.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\utils\editorguihelper.cs
+++EditorResources.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\utils\editorresources.cs
+++FxStyles.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\utils\fxstyles.cs
+++ReflectionUtils.cs
+i:{d19d75c6-34d0-9474-32d6-01aaa7818808}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor\utils\reflectionutils.cs
+++_Resources
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\
+++Interfaces
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\interfaces\
+++Scripts
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\scripts\
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water (basic)\scripts\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\
+++Fonts
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\fonts\
+++Meshes
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\
+++Particles
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\particles\
+++Shaders
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\shaders\
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\particles\particle effects\sources\shaders\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\bootcamp assets\shaders\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water (basic)\shaders\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\shaders\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water4\shaders\
+++Sounds
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\sounds\
+++README.txt
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\readme.txt
+++Interfaces.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\interfaces\interfaces.cs
+++Editor Resources
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\
+++Resources
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\detonator\resources\
+++Runtime
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\
+++PeakingController.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\scripts\peakingcontroller.cs
+++BigNoodle
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\fonts\bignoodle\
+++FramerateFont
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\fonts\frameratefont\
+++GMC
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\gmc\
+++Weapons
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\weapons\
+++Particle Effects
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\particles\particle effects\
+++Misc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\
+++Platform
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\platform\
+++Player
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\
+++VehicleScripts
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\
+++Buoyancy.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\buoyancy.cs
+++CanvasManager.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\canvasmanager.cs
+++CubesToScore.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\cubestoscore.cs
+++DamageTrigger.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\damagetrigger.cs
+++DestroyAfter.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\destroyafter.cs
+++DetachChildrenAndDestroy.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\detachchildrenanddestroy.cs
+++FrameRate.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\framerate.cs
+++GameManager.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\gamemanager.cs
+++Gate.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\gate.cs
+++GrabObjects.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\grabobjects.cs
+++HitSounds.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\hitsounds.cs
+++Ladder.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\ladder.cs
+++LandMineDamage.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\landminedamage.cs
+++Medic.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\medic.cs
+++MouseLook.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\mouselook.cs
+++ObjectDamage.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\objectdamage.cs
+++Pickable.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\pickable.cs
+++Pickup.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\pickup.cs
+++Projectile.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\projectile.cs
+++Reward.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\reward.cs
+++ScoreManager.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\scoremanager.cs
+++Stabilize.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\stabilize.cs
+++Target.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\target.cs
+++TargetManager.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\targetmanager.cs
+++Blink.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\shaders\blink.shader
+++Bullet.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\shaders\bullet.shader
+++Particle Add.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\shaders\particle add.shader
+++Particle Multiply.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\shaders\particle multiply.shader
+++Scroll.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\shaders\scroll.shader
+++Replace
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\sounds\replace\
+++UI
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\ui\
+++Bluenoise64
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\bluenoise64\
+++Components
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\
+++PostProcessingBehaviour.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\postprocessingbehaviour.cs
+++PostProcessingComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\postprocessingcomponent.cs
+++PostProcessingContext.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\postprocessingcontext.cs
+++PostProcessingModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\postprocessingmodel.cs
+++PostProcessingProfile.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\postprocessingprofile.cs
+++big_noodle_titling.txt
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\fonts\bignoodle\big_noodle_titling.txt
+++visitor.txt
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\fonts\frameratefont\visitor.txt
+++Source Assets
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\gmc\source assets\
+++Knife
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\weapons\knife\
+++Sources
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\particles\particle effects\sources\
+++Billboard.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\billboard.cs
+++CrosshairSimple.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\crosshairsimple.cs
+++Destroyer.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\destroyer.cs
+++DropSound.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\dropsound.cs
+++Explosion.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\explosion.cs
+++Explosion2.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\explosion2.cs
+++FadeLight.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\fadelight.cs
+++FlashLight.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\flashlight.cs
+++PoolTrigger.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\pooltrigger.cs
+++RotateBullet.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\rotatebullet.cs
+++RotateGrenade.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\rotategrenade.cs
+++TimedObjectDestructor.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\misc\timedobjectdestructor.cs
+++Activate.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\platform\activate.cs
+++MovePlatforms.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\platform\moveplatforms.cs
+++PlatformActivate.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\platform\platformactivate.cs
+++PlatformParent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\platform\platformparent.cs
+++BreathAnim.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\breathanim.cs
+++Delayeffect.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\delayeffect.cs
+++FootSteps.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\footsteps.cs
+++FPSController.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\fpscontroller.cs
+++HealthScript.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\healthscript.cs
+++NoWeapon.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\noweapon.cs
+++StabilizeKickback.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\stabilizekickback.cs
+++USE.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\use.cs
+++UseLadder.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\useladder.cs
+++WeaponIndex.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\weaponindex.cs
+++WeaponManager.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\weaponmanager.cs
+++WeaponScriptNEW.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\player\weaponscriptnew.cs
+++AerodynamicResistance.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\aerodynamicresistance.cs
+++AntiRollBar.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\antirollbar.cs
+++CarController.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\carcontroller.cs
+++DamageonTriggerEnter.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\damageontriggerenter.cs
+++Drivetrain.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\drivetrain.cs
+++Skidmarks.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\skidmarks.cs
+++SoundController.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\soundcontroller.cs
+++TractionHelper.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\tractionhelper.cs
+++VehicleCamera.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\vehiclecamera.cs
+++VehicleDamage.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\vehicledamage.cs
+++VehicleDamageReceiver.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\vehicledamagereceiver.cs
+++VehicleScript.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\vehiclescript.cs
+++Wheel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\wheel.cs
+++Wing.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\wing.cs
+++_Links.TXT
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\sounds\replace\_links.txt
+++HistogramCompute.compute
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\histogramcompute.compute
+++HistogramRender.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\histogramrender.shader
+++ParadeRender.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\paraderender.shader
+++VectorscopeCompute.compute
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\vectorscopecompute.compute
+++VectorscopeRender.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\vectorscoperender.shader
+++WaveformCompute.compute
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\waveformcompute.compute
+++WaveformRender.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\monitors\waveformrender.shader
+++CurveBackground.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\ui\curvebackground.shader
+++Trackball.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\editor resources\ui\trackball.shader
+++COPYING.txt
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\bluenoise64\copying.txt
+++LICENSE.txt
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\bluenoise64\license.txt
+++ACES.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\aces.cginc
+++AmbientOcclusion.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\ambientocclusion.cginc
+++AmbientOcclusion.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\ambientocclusion.shader
+++Blit.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\blit.shader
+++Bloom.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\bloom.cginc
+++Bloom.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\bloom.shader
+++BuiltinDebugViews.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\builtindebugviews.shader
+++ColorGrading.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\colorgrading.cginc
+++Common.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\common.cginc
+++DepthOfField.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\depthoffield.cginc
+++DepthOfField.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\depthoffield.shader
+++DiskKernels.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\diskkernels.cginc
+++EyeAdaptation.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\eyeadaptation.cginc
+++EyeAdaptation.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\eyeadaptation.shader
+++EyeHistogram.compute
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\eyehistogram.compute
+++Fog.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\fog.shader
+++FXAA.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\fxaa.shader
+++FXAA3.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\fxaa3.cginc
+++GrainGen.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\graingen.shader
+++LutGen.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\lutgen.shader
+++MotionBlur.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\motionblur.cginc
+++MotionBlur.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\motionblur.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\motionblur.shader
+++ScreenSpaceRaytrace.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\screenspaceraytrace.cginc
+++ScreenSpaceReflection.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\screenspacereflection.shader
+++TAA.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\taa.cginc
+++TAA.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\taa.shader
+++Tonemapping.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\tonemapping.cginc
+++Uber.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\uber.shader
+++UberSecondPass.cginc
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\resources\shaders\ubersecondpass.cginc
+++GetSetAttribute.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\attributes\getsetattribute.cs
+++MinAttribute.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\attributes\minattribute.cs
+++TrackballAttribute.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\attributes\trackballattribute.cs
+++TrackballGroupAttribute.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\attributes\trackballgroupattribute.cs
+++AmbientOcclusionComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\ambientocclusioncomponent.cs
+++BloomComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\bloomcomponent.cs
+++BuiltinDebugViewsComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\builtindebugviewscomponent.cs
+++ChromaticAberrationComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\chromaticaberrationcomponent.cs
+++ColorGradingComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\colorgradingcomponent.cs
+++DepthOfFieldComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\depthoffieldcomponent.cs
+++DitheringComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\ditheringcomponent.cs
+++EyeAdaptationComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\eyeadaptationcomponent.cs
+++FogComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\fogcomponent.cs
+++FxaaComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\fxaacomponent.cs
+++GrainComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\graincomponent.cs
+++MotionBlurComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\motionblurcomponent.cs
+++ScreenSpaceReflectionComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\screenspacereflectioncomponent.cs
+++TaaComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\taacomponent.cs
+++UserLutComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\userlutcomponent.cs
+++VignetteComponent.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\components\vignettecomponent.cs
+++AmbientOcclusionModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\ambientocclusionmodel.cs
+++AntialiasingModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\antialiasingmodel.cs
+++BloomModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\bloommodel.cs
+++BuiltinDebugViewsModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\builtindebugviewsmodel.cs
+++ChromaticAberrationModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\chromaticaberrationmodel.cs
+++ColorGradingModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\colorgradingmodel.cs
+++DepthOfFieldModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\depthoffieldmodel.cs
+++DitheringModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\ditheringmodel.cs
+++EyeAdaptationModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\eyeadaptationmodel.cs
+++FogModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\fogmodel.cs
+++GrainModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\grainmodel.cs
+++MotionBlurModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\motionblurmodel.cs
+++ScreenSpaceReflectionModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\screenspacereflectionmodel.cs
+++UserLutModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\userlutmodel.cs
+++VignetteModel.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\models\vignettemodel.cs
+++ColorGradingCurve.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\utils\colorgradingcurve.cs
+++GraphicsUtils.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\utils\graphicsutils.cs
+++MaterialFactory.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\utils\materialfactory.cs
+++RenderTextureFactory.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\postprocessing\runtime\utils\rendertexturefactory.cs
+++Skidmarks
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\gmc\source assets\skidmarks\
+++Kabar Knife.TXT
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\weapons\knife\kabar knife.txt
+++Skidmarks.shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\meshes\gmc\source assets\skidmarks\skidmarks.shader
+++Particle Alpha Blend (Queue +100).shader
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\particles\particle effects\sources\shaders\particle alpha blend (queue +100).shader
+++Standard Assets
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\
+++Bootcamp Assets
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\bootcamp assets\
+++Detonator
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\detonator\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\detonator\resources\detonator\
+++Effects
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\
+++Environment
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\
+++prototype_textures
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\prototype_textures\
+++Water
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\
+++Water (Basic)
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water (basic)\
+++readme.txt
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\prototype_textures\readme.txt
+++Particle Alpha Blend.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\bootcamp assets\shaders\particle alpha blend.shader
+++Water4
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water4\
+++Textures
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\detonator\resources\detonator\textures\
+++Antialiasing.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\antialiasing.cs
+++Bloom.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\bloom.cs
+++BloomAndFlares.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\bloomandflares.cs
+++BloomOptimized.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\bloomoptimized.cs
+++Blur.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\blur.cs
+++BlurOptimized.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\bluroptimized.cs
+++CameraMotionBlur.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\cameramotionblur.cs
+++ColorCorrectionCurves.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\colorcorrectioncurves.cs
+++ColorCorrectionLookup.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\colorcorrectionlookup.cs
+++ColorCorrectionRamp.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\colorcorrectionramp.cs
+++ContrastEnhance.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\contrastenhance.cs
+++ContrastStretch.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\contraststretch.cs
+++CreaseShading.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\creaseshading.cs
+++DepthOfField.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\depthoffield.cs
+++DepthOfFieldDeprecated.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\depthoffielddeprecated.cs
+++EdgeDetection.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\edgedetection.cs
+++Fisheye.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\fisheye.cs
+++GlobalFog.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\globalfog.cs
+++Grayscale.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\grayscale.cs
+++ImageEffectBase.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\imageeffectbase.cs
+++ImageEffects.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\imageeffects.cs
+++NoiseAndGrain.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\noiseandgrain.cs
+++NoiseAndScratches.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\noiseandscratches.cs
+++PostEffectsBase.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\posteffectsbase.cs
+++PostEffectsHelper.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\posteffectshelper.cs
+++Quads.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\quads.cs
+++ScreenOverlay.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\screenoverlay.cs
+++ScreenSpaceAmbientObscurance.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\screenspaceambientobscurance.cs
+++ScreenSpaceAmbientOcclusion.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\screenspaceambientocclusion.cs
+++SepiaTone.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\sepiatone.cs
+++SunShafts.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\sunshafts.cs
+++TiltShift.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\tiltshift.cs
+++Tonemapping.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\tonemapping.cs
+++Triangles.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\triangles.cs
+++Twirl.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\twirl.cs
+++VignetteAndChromaticAberration.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\vignetteandchromaticaberration.cs
+++Vortex.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\scripts\vortex.cs
+++_Antialiasing
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\
+++_BloomAndFlares
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\
+++_DepthOfField
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\
+++Contrast Stretch
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\contrast stretch\
+++BlendModesOverlay.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\blendmodesoverlay.shader
+++BlurEffectConeTaps.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\blureffectconetaps.shader
+++CameraMotionBlur.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\cameramotionblur.shader
+++CameraMotionBlurDX11.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\cameramotionblurdx11.shader
+++ChromaticAberrationShader.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\chromaticaberrationshader.shader
+++ColorCorrection3DLut.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\colorcorrection3dlut.shader
+++ColorCorrectionCurves.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\colorcorrectioncurves.shader
+++ColorCorrectionCurvesSimple.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\colorcorrectioncurvessimple.shader
+++ColorCorrectionEffect.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\colorcorrectioneffect.shader
+++ColorCorrectionSelective.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\colorcorrectionselective.shader
+++ContrastComposite.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\contrastcomposite.shader
+++ConvertDepth.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\convertdepth.shader
+++CreaseApply.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\creaseapply.shader
+++EdgeDetectNormals.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\edgedetectnormals.shader
+++FisheyeShader.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\fisheyeshader.shader
+++frag_ao.cginc
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\frag_ao.cginc
+++GlobalFog.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\globalfog.shader
+++GrayscaleEffect.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\grayscaleeffect.shader
+++MotionBlurClear.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\motionblurclear.shader
+++NoiseAndGrain.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\noiseandgrain.shader
+++NoiseAndGrainDX11.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\noiseandgraindx11.shader
+++NoiseEffectShaderRGB.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\noiseeffectshaderrgb.shader
+++NoiseEffectShaderYUV.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\noiseeffectshaderyuv.shader
+++PrepareSunShaftsBlur.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\preparesunshaftsblur.shader
+++RadialBlur.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\radialblur.shader
+++ScreenSpaceAmbientObscurance.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\screenspaceambientobscurance.shader
+++SepiaToneEffect.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\sepiatoneeffect.shader
+++ShowAlphaChannel.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\showalphachannel.shader
+++SimpleClear.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\simpleclear.shader
+++SSAOShader.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\ssaoshader.shader
+++SunShaftsComposite.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\sunshaftscomposite.shader
+++Tonemapper.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\tonemapper.shader
+++TwirlEffect.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\twirleffect.shader
+++VignettingShader.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\vignettingshader.shader
+++VortexEffect.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\vortexeffect.shader
+++WaterBasic.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water (basic)\scripts\waterbasic.cs
+++FXWaterBasic.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water (basic)\shaders\fxwaterbasic.shader
+++HeatDistort.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\detonator\resources\detonator\textures\heatdistort.shader
+++DLAA.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\dlaa.shader
+++FXAA2.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\fxaa2.shader
+++FXAA3Console.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\fxaa3console.shader
+++FXAAPreset2.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\fxaapreset2.shader
+++FXAAPreset3.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\fxaapreset3.shader
+++NFAA.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\nfaa.shader
+++SSAA.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_antialiasing\ssaa.shader
+++Blend.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\blend.shader
+++BlendForBloom.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\blendforbloom.shader
+++BlendOneOne.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\blendoneone.shader
+++BlurAndFlares.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\blurandflares.shader
+++BrightPassFilter.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\brightpassfilter.shader
+++BrightPassFilter2.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\brightpassfilter2.shader
+++LensFlareCreate.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\lensflarecreate.shader
+++MobileBloom.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\mobilebloom.shader
+++MobileBlur.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\mobileblur.shader
+++MultiPassHollywoodFlares.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\multipasshollywoodflares.shader
+++SeparableBlurPlus.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\separableblurplus.shader
+++VignetteShader.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_bloomandflares\vignetteshader.shader
+++Bokeh34.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\bokeh34.shader
+++DepthOfField34.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\depthoffield34.shader
+++DepthOfFieldDX11.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\depthoffielddx11.shader
+++DepthOfFieldScatter.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\depthoffieldscatter.shader
+++SeparableBlur.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\separableblur.shader
+++SeparableWeightedBlurDof34.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\separableweightedblurdof34.shader
+++TiltShiftHdrLensBlur.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\_depthoffield\tiltshifthdrlensblur.shader
+++Adaptation.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\contrast stretch\adaptation.shader
+++Apply.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\contrast stretch\apply.shader
+++Luminance.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\contrast stretch\luminance.shader
+++MinMaxReduction.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\effects\imageeffects\shaders\contrast stretch\minmaxreduction.shader
+++Displace.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\displace.cs
+++GerstnerDisplace.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\gerstnerdisplace.cs
+++MeshContainer.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\meshcontainer.cs
+++PlanarReflection.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\planarreflection.cs
+++SpecularLighting.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\specularlighting.cs
+++Water.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\water.cs
+++WaterBase.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\waterbase.cs
+++WaterTile.cs
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\scripts\watertile.cs
+++FXWaterPro.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water\shaders\fxwaterpro.shader
+++FXWater4Advanced.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water4\shaders\fxwater4advanced.shader
+++FXWater4Simple.shader
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water4\shaders\fxwater4simple.shader
+++WaterInclude.cginc
+i:{c9b104a2-3fd8-3214-59d3-e984e5642ca6}:d:\projects\au fps kit 2019.3\assets\standard assets\environment\water\water4\shaders\waterinclude.cginc
+++Assembly-CSharp (unloaded)
+++Solution 'AU FPS KIT 2019.3' ‎(2 of 3 projects)
+++ObjectHealth.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\scripts\objecthealth.cs
+++VehicleDamage1.cs
+++HealthHelper.cs
+i:{7a698c85-cf52-67cb-d332-2d6acf9c82ee}:d:\projects\au fps kit 2019.3\assets\_resources\scripts\vehiclescripts\healthhelper.cs
