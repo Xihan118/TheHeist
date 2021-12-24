@@ -47,7 +47,7 @@ public class EnemyController : MonoBehaviour
 
                 
                 RaycastHit hit;
-                if (Physics.Raycast(shotPos.position, shotPos.forward, out hit, 1000)) {
+                if (Physics.Raycast(shotPos.position, shotPos.forward, out hit)) {
                     if (hit.transform.tag == "Player") {
                         HealthScript health = hit.transform.GetComponent<HealthScript>();
                         health.ApplyDamage(Damage);
