@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>UNITY_2020_3_11;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2020_3_11;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;PROBUILDER_EXPERIMENTAL_FEATURES;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -56,13 +56,24 @@
     <Analyzer Include="D:\Visual Studio Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\Methods.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\FxaaComponent.cs" />
     <Compile Include="Assets\Scripts\Bullets.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\MCSDynamicObject.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\BreathAnim.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\USE.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\Explosion2.cs" />
+    <Compile Include="Assets\Scripts\BulletTime.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\Voxelize.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\Collections\FastIndexList.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\LODGroups\LODGroupSetup.cs" />
+    <Compile Include="Assets\Scripts\TriggerDetection.cs" />
     <Compile Include="Assets\_Resources\Scripts\Pickable.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\MeshFilterRevert.cs" />
     <Compile Include="Assets\Scripts\CoolDown.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Examples\CombineRuntime.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\SetupByScripts\MCS_RemoveTris.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\SetupByScripts\MCS_RemoveOverlappingTris.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\HealthHelper.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
@@ -79,10 +90,13 @@
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\VignetteComponent.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\FogModel.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\MeshCombinerData.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\TaaComponent.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\TriangleAAB3.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\Platform\PlatformActivate.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\LightmapSettings.cs" />
     <Compile Include="Assets\_Resources\Scripts\Projectile.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\VehicleDamageReceiver.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\VehicleScript.cs" />
@@ -91,35 +105,49 @@
     <Compile Include="Assets\_Resources\Scripts\Pickup.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\Billboard.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Octree\BaseOctree.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\PostProcessingModel.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\DamageonTriggerEnter.cs" />
     <Compile Include="Assets\_Resources\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\DisabledLodMeshRender.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\PostProcessingProfile.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\Console.cs" />
     <Compile Include="Assets\Scripts\StickToTarget.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\Collections\FastList.cs" />
     <Compile Include="Assets\_Resources\Scripts\Medic.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\GrainComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\MCS_FPSCounter.cs" />
     <Compile Include="Assets\_Resources\Scripts\Target.cs" />
     <Compile Include="Assets\_Resources\Scripts\CubesToScore.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\PostProcessingContext.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\LODGroups\FindLODGroups.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\TargetManager.cs" />
     <Compile Include="Assets\Scripts\AIRoot.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\WeaponScriptNEW.cs" />
     <Compile Include="Assets\_Resources\Scripts\Stabilize.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\ReadMe.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\WeaponIndex.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\Delayeffect.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\RemoveGeometryBelowTerrain.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\VehicleDamage.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\UserLutModel.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\CamGeometryCapture.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\BloomComponent.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\DisabledMeshRenderer.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\DropSound.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\Mathw.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\FlashLight.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\CarController.cs" />
     <Compile Include="Assets\_Resources\Scripts\Buoyancy.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\FootSteps.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\SwapCombineKey.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\VisualizeMesh.cs" />
     <Compile Include="Assets\Scripts\OnEnableDisable.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Navigation Camera\NavigationCamera.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\UserLutComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\FPSController.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\CrosshairSimple.cs" />
@@ -127,14 +155,25 @@
     <Compile Include="Assets\_Resources\Scripts\Misc\FadeLight.cs" />
     <Compile Include="Assets\Scripts\ObjectHealth.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\Destroyer.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\MeshCombiner.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\ListMeshVertCount.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\TimedObjectDestructor.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\RotateBullet.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\LODGroups\DisabledLODGroup.cs" />
     <Compile Include="Assets\_Resources\Scripts\Platform\Activate.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Octree\ObjectOctree.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\SoundController.cs" />
-    <Compile Include="Assets\_Resources\Scripts\HitSounds.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\SimpleMove.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Examples\SelectOriginal.cs" />
     <Compile Include="Assets\_Resources\Scripts\FrameRate.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\GarbageCollectMesh.cs" />
+    <Compile Include="Assets\_Resources\Scripts\HitSounds.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\CombinedLODManager.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\Collections\Collections.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\MCS_CameraController.cs" />
     <Compile Include="Assets\_Resources\Scripts\Reward.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\AmbientOcclusionModel.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\MeshCombineJobManager.cs" />
     <Compile Include="Assets\Interfaces\Interfaces.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\DitheringComponent.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
@@ -143,6 +182,7 @@
     <Compile Include="Assets\_Resources\Scripts\GrabObjects.cs" />
     <Compile Include="Assets\_Resources\Scripts\Player\WeaponManager.cs" />
     <Compile Include="Assets\_Resources\Scripts\LandMineDamage.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\ShadowDistance.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
@@ -154,20 +194,28 @@
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
     <Compile Include="Assets\_Resources\Scripts\Platform\PlatformParent.cs" />
     <Compile Include="Assets\_Resources\Scripts\Gate.cs" />
-    <Compile Include="Assets\_Resources\Scripts\Player\NoWeapon.cs" />
     <Compile Include="Assets\_Resources\Scripts\Ladder.cs" />
+    <Compile Include="Assets\_Resources\Scripts\Player\NoWeapon.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\AntiRollBar.cs" />
     <Compile Include="Assets\_Resources\Scripts\DetachChildrenAndDestroy.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\CachedComponents.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\RaycastTest.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\SectorGrid\SectorGrid3D.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\VehicleCamera.cs" />
     <Compile Include="Assets\_Resources\Scripts\ObjectDamage.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\FogComponent.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\Skidmarks.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\AerodynamicResistance.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Navigation Camera\SO_NavigationCamera.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Mesh\ObjectSpawner.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\EnableChildrenMeshRenderers.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\DirectDraw.cs" />
     <Compile Include="Assets\Scripts\PeakingController.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\Misc\SwitchMeshCombineManager.cs" />
     <Compile Include="Assets\_Resources\Scripts\DestroyAfter.cs" />
     <Compile Include="Assets\_Resources\Scripts\GameManager.cs" />
     <Compile Include="Assets\_Resources\Scripts\Platform\MovePlatforms.cs" />
@@ -176,6 +224,7 @@
     <Compile Include="Assets\_Resources\Scripts\Player\HealthScript.cs" />
     <Compile Include="Assets\_Resources\Scripts\VehicleScripts\Wing.cs" />
     <Compile Include="Assets\_Resources\Scripts\Misc\RotateGrenade.cs" />
+    <Compile Include="Assets\MeshCombineStudio\Scripts\SetupByScripts\MCS_RemoveTrisBelowSurface.cs" />
     <Compile Include="Assets\Interfaces\PostProcessing\Runtime\Models\DitheringModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -190,6 +239,7 @@
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\LutGen.shader" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
     <None Include="Assets\_Resources\Sounds\Replace\_Links.TXT" />
+    <None Include="Assets\MeshCombineStudio\ReadMe.txt" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\TAA.cginc" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\Interfaces\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
@@ -225,12 +275,14 @@
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\Bloom.shader" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\Uber.shader" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\DepthOfField.shader" />
+    <None Include="Assets\MeshCombineStudio\Plugins\MeshExtension.dll" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\TAA.shader" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\Blit.shader" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\Bloom.cginc" />
     <None Include="Assets\Interfaces\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <None Include="Assets\_Resources\Shaders\Bullet.shader" />
     <None Include="Assets\Interfaces\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
+    <None Include="Assets\MeshCombineStudio\Scripts\Mesh\ConvertDepthToArray.compute" />
     <None Include="Assets\_Resources\Shaders\Scroll.shader" />
   </ItemGroup>
   <ItemGroup>
@@ -455,6 +507,9 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>D:\Unity Editors\Unity\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="MeshExtension">
+      <HintPath>Assets\MeshCombineStudio\Plugins\MeshExtension.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
       <HintPath>Library\PackageCache\com.unity.burst@1.3.4\Unity.Burst.Unsafe.dll</HintPath>
@@ -813,17 +868,14 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
@@ -831,26 +883,29 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Burst.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Animation.Rigging.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.Editor.dll</HintPath>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Animation.Rigging">
       <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.dll</HintPath>
@@ -858,11 +913,23 @@
     <Reference Include="Unity.Mathematics">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+    <Reference Include="Unity.Burst">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Animation.Rigging.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

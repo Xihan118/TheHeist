@@ -7547,7 +7547,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4252761142182180}
   - component: {fileID: 114077169379709554}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Weapon Delay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12386,7 +12386,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4537561224732644}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DropPosition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12541,7 +12541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4565122753739212}
   - component: {fileID: 111870049428324602}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Animations
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13264,7 +13264,7 @@ GameObject:
   - component: {fileID: 4682816864064904}
   - component: {fileID: 20162003652566282}
   - component: {fileID: 114137850030145438}
-  m_Layer: 13
+  m_Layer: 9
   m_Name: MiniMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13857,7 +13857,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4326157817560124}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Adjust
   m_TagString: Untagged
   m_Icon: {fileID: 0}
