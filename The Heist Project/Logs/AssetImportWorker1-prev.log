@@ -1,0 +1,141 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 7996 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Github/TheHeist/The Heist Project
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+65534
+Successfully changed project path to: D:/Github/TheHeist/The Heist Project
+D:/Github/TheHeist/The Heist Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 52.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/TheHeist/The Heist Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     3998 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56748
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001726 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.025 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.160 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.3 MB.
+System memory in use after: 201.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2792.
+Total: 2.795300 ms (FindLiveObjects: 0.276200 ms CreateObjectMapping: 0.108300 ms MarkObjects: 2.251900 ms  DeleteObjects: 0.157700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/office/Materials/New Folder/Materials/ATMUV.mat
+  artifactKey: Guid(3ea4827f04c736146aba03ecba80971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/office/Materials/New Folder/Materials/ATMUV.mat using Guid(3ea4827f04c736146aba03ecba80971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780ac7611f904a55f84ca6247568e2b9') in 0.189528 seconds
+  Import took 0.228486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Scenes/1.unity
+  artifactKey: Guid(434a5163c259106498037949a4608d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1.unity using Guid(434a5163c259106498037949a4608d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177e498559a28883f0382823932f85c1') in 0.001721 seconds
+  Import took 0.055083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.194340 seconds.
+  path: Assets/office/New Folder/Materials/DeskUV.mat
+  artifactKey: Guid(b6175f892703ce8409a0b7a4262bcc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/office/New Folder/Materials/DeskUV.mat using Guid(b6175f892703ce8409a0b7a4262bcc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58e50b3d7701fd85ad98a91aa30e3b4') in 0.009780 seconds
+  Import took 0.026726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025049 seconds.
+  path: Assets/3D/Ch18_nonPBR.fbm/Ch18_1001_Glossiness.png
+  artifactKey: Guid(252503fe141a1ba43887e21d2246ca1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Ch18_nonPBR.fbm/Ch18_1001_Glossiness.png using Guid(252503fe141a1ba43887e21d2246ca1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e74f4dd13a0fc6c6f83a6a6cf1abeb') in 0.080196 seconds
+  Import took 0.148007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.416253 seconds.
+  path: Assets/3D/Ch18_nonPBR.fbm/Ch18_1001_Diffuse.png
+  artifactKey: Guid(686a8e8b0dbff37469e604a2144da4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Ch18_nonPBR.fbm/Ch18_1001_Diffuse.png using Guid(686a8e8b0dbff37469e604a2144da4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74c21a2f011ff6e53dab8db06159376') in 0.006891 seconds
+  Import took 0.019267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021026 seconds.
+  path: Assets/floor/Materials/TexturesCom_Tiles_PorcelainChevron_1K_albedo.mat
+  artifactKey: Guid(d13f4a79904deb949a3b165172fd8918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/floor/Materials/TexturesCom_Tiles_PorcelainChevron_1K_albedo.mat using Guid(d13f4a79904deb949a3b165172fd8918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06470fa63ee2287070e6ee5282bf318f') in 0.012070 seconds
+  Import took 0.015776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005800 seconds.
+  path: Assets/office/Materials/Materials/twolift.mat
+  artifactKey: Guid(cdbf8174ce360e544acf44ae6a652f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/office/Materials/Materials/twolift.mat using Guid(cdbf8174ce360e544acf44ae6a652f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b15da78d0b83b5aeeb9595022d51ee') in 0.009748 seconds
+  Import took 0.116359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.115545 seconds.
+  path: Assets/office/New Folder/Materials/DrawerUV.mat
+  artifactKey: Guid(32bec74cfbd6cc142b64a7d8674c77c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/office/New Folder/Materials/DrawerUV.mat using Guid(32bec74cfbd6cc142b64a7d8674c77c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e0c4df806afc07771c21c752fe687c5') in 0.010417 seconds
+  Import took 0.038803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.358673 seconds.
+  path: Assets/3D/Ch18_nonPBR.fbm/Ch18_1001_Specular.png
+  artifactKey: Guid(f4f7c8924a730f34c8ce3b4d5bb688ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Ch18_nonPBR.fbm/Ch18_1001_Specular.png using Guid(f4f7c8924a730f34c8ce3b4d5bb688ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099c876404a88d15cceffd4e6a871623') in 0.063669 seconds
+  Import took 0.067232 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
